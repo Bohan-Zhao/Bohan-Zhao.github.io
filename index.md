@@ -2,10 +2,10 @@
 <!-------------------------------------------------------------------------------------------->
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="botttom">
+    <td width="50%" align="botttom">
       <img src="Bohan_Zhao_s.jpg">      
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="top">
       <h1>Bohan Zhao</h1>
       <p><b>Master</b></p>
       <p><b>IIIS, Tsinghua University</b></p>
@@ -31,7 +31,7 @@ I am going to begin my post-graduate study in Intitute for Interdisciplinary Inf
 <h3>Publications</h3>
 <ul>
 <li>Zhao B, Zhao J, Wang X, et al. RuleTailor: Optimizing Flow Table Updates in OpenFlow Switches With Rule Transformations[J]. IEEE Transactions on Network and Service Management, 2019, 16(4): 1581-1594. </li>
-<li><b>SDN and NFV:</b>                     TUS, P5, NFactor </li>
+<li>Zhao B, Rui L, Zhao J, et al. Efficient and Consistent TCAM Updates[C]//IEEE INFOCOM 2020-IEEE Conference on Computer Communications. </li>
 </ul>
 
 
