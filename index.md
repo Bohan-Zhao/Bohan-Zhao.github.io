@@ -2,10 +2,10 @@
 <!-------------------------------------------------------------------------------------------->
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle" border="0">
       <img src="Bohan_Zhao_s.jpg"  border="0" style="vertical-align:top">      
     </td>
-    <td width="50%" align="top">
+    <td width="60%" align="top" border="0">
       <h1>Bohan Zhao</h1>
       <h2>Master</h2>
       <h2>IIIS, Tsinghua University</h2>
