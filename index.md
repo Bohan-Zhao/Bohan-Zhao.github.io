@@ -2,13 +2,13 @@
 <!-------------------------------------------------------------------------------------------->
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center" valign="middle">
       <h1>Bohan Zhao</h1>
       <p><b>Master</b></p>
       <p><b>IIIS, Tsinghua University</b></p>
       <p><b>bhzhao16@fudan.edu.cn</b></p>
     </td>
-    <td width="50%">
+    <td width="50%" align="center" valign="middle">
       <img src="Bohan_Zhao.jpg" width="100%">      
     </td>
   </tr>
@@ -24,8 +24,8 @@ I am going to begin my post-graduate study in Intitute for Interdisciplinary Inf
 <h3>Research</h3>
 <h4>Current Projects</h4>
 <ul>
-<li><b>Network Function Virtualization:</b>    NF Development Framework, NF Program Optimization </li>
-<li><b>Data-Driven Network Management:</b>     Mobile App download optimization, Network Switch Failure Diagnosis</li>
+<li><b>Network Function Virtualization:</b>    NF Program Optimization </li>
+<li><b>Software Defined Network</b>            Rule update optimization and smart cache in TCAM</li>
 <li><b>Network Security:</b>                   Trusted Environment Execution based Network Services</li>
 </ul>
 
