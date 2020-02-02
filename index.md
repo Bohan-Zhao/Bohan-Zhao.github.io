@@ -2,7 +2,7 @@
 <!-------------------------------------------------------------------------------------------->
 <table border="0" cellpadding="0">
   <tr>
-    <td width="50%" align="botttom">
+    <td width="50%" align="center" valign="middle">
       <img src="Bohan_Zhao_s.jpg">      
     </td>
     <td width="50%" align="top">
