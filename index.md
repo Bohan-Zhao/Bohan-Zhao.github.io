@@ -2,7 +2,7 @@
 <!-------------------------------------------------------------------------------------------->
 <table cellpadding="20em">
 <tr>
-<td><img src="Bohan_Zhao.jpg" height=200em></td>
+<img src="/zhengjianzhao.jpg" width="100%">
 <td align="top">
 <h1>Bohan Zhao</h1>
 <h3>Master<br> 
