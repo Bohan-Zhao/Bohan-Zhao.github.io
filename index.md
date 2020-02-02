@@ -6,7 +6,7 @@
       <img src="Bohan_Zhao_s.jpg">      
     </td>
     <td width="50%" align="top">
-      <h1>Bohan Zhao</h1>
+      <h2>Bohan Zhao</h2>
       <h2>Master</h2>
       <h2>IIIS, Tsinghua University</h2>
       <h3>bhzhao16@fudan.edu.cn</h3>
