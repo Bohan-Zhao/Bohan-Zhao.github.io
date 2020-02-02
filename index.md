@@ -8,8 +8,8 @@
       <p><b>IIIS, Tsinghua University</b></p>
       <p><b>bhzhao16@fudan.edu.cn</b></p>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="Bohan_Zhao_s.jpg" width="100%">      
+    <td width="50%" align="center" valign="botttom">
+      <img src="Bohan_Zhao_s.jpg">      
     </td>
   </tr>
 </table>
@@ -25,8 +25,8 @@ I am going to begin my post-graduate study in Intitute for Interdisciplinary Inf
 <h4>Current Projects</h4>
 <ul>
 <li><b>Network Function Virtualization:</b>    NF Program Optimization </li>
-<li><b>Software Defined Network</b>            Rule update optimization and smart cache in TCAM</li>
-<li><b>Network Security:</b>                   Trusted Environment Execution based Network Services</li>
+<li><b>Software Defined Network:</b>           Rule update optimization and smart cache in TCAM</li>
+<li><b>P4 Language:</b>                        P4 based fast failure recovery and SFC offloading</li>
 </ul>
 
 <h4>Past Projects</h4>
