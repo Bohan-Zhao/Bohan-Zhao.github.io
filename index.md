@@ -2,14 +2,14 @@
 <!-------------------------------------------------------------------------------------------->
 <table border="0">
   <tr>
+    <td width="50%" align="center" valign="botttom">
+      <img src="Bohan_Zhao_s.jpg">      
+    </td>
     <td width="50%" align="center" valign="top">
       <h1>Bohan Zhao</h1>
       <p><b>Master</b></p>
       <p><b>IIIS, Tsinghua University</b></p>
       <p><b>bhzhao16@fudan.edu.cn</b></p>
-    </td>
-    <td width="50%" align="center" valign="botttom">
-      <img src="Bohan_Zhao_s.jpg">      
     </td>
   </tr>
 </table>
@@ -22,28 +22,16 @@ I am going to begin my post-graduate study in Intitute for Interdisciplinary Inf
 
 <!-------------------------------------------------------------------------------------------->
 <h3>Research</h3>
-<h4>Current Projects</h4>
 <ul>
 <li><b>Network Function Virtualization:</b>    NF Program Optimization </li>
 <li><b>Software Defined Network:</b>           Rule update optimization and smart cache in TCAM</li>
 <li><b>P4 Language:</b>                        P4 based fast failure recovery and SFC offloading</li>
 </ul>
 
-<h4>Past Projects</h4>
-<ul>
-<li><b>Network Diagnostics:</b>             MPA, PerfSight, VND </li>
-<li><b>SDN and NFV:</b>                     TUS, P5, NFactor </li>
-<li><b>Network Management:</b>              Janus, SLA-Verifier, SecondNet, DAC </li>
-<li><b>Performance Optimization:</b>        DEM, ATCP </li>
-<li><b>Mobile Networks:</b>                 PRAN, SoftMoW </li>
-<li><b>Internet:</b>                        XIA </li>
-<li><b>Security:</b>                        BigSecurity </li>
-</ul>
-<!--------<a href="research.pdf" target="_blank">Research Statement</a>------->
-
-<!-------------------------------------------------------------------------------------------->
 <h3>Publications</h3>
-<a href="publications.pdf" target="_blank">Full List Here.</a>
+<ul>
+<li>Zhao B, Zhao J, Wang X, et al. RuleTailor: Optimizing Flow Table Updates in OpenFlow Switches With Rule Transformations[J]. IEEE Transactions on Network and Service Management, 2019, 16(4): 1581-1594. </li>
+<li><b>SDN and NFV:</b>                     TUS, P5, NFactor </li>
+</ul>
 
-<!-------------------------------------------------------------------------------------------->
 
