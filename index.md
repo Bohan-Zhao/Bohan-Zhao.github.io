@@ -7,9 +7,9 @@
     </td>
     <td width="50%" align="top">
       <h1>Bohan Zhao</h1>
-      <p><b>Master</b></p>
-      <p><b>IIIS, Tsinghua University</b></p>
-      <p><b>bhzhao16@fudan.edu.cn</b></p>
+      <h2>Master</h2>
+      <h2>IIIS, Tsinghua University</h2>
+      <h3>bhzhao16@fudan.edu.cn</h3>
     </td>
   </tr>
 </table>
