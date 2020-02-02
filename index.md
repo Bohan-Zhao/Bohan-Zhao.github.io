@@ -1,11 +1,9 @@
-img {
-    vertical-align: middle;
-}
+
 <!-------------------------------------------------------------------------------------------->
 <table border="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="Bohan_Zhao_s.jpg">      
+      <img src="Bohan_Zhao_s.jpg"  border="0" style="vertical-align:top">      
     </td>
     <td width="50%" align="top">
       <h1>Bohan Zhao</h1>
