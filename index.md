@@ -1,6 +1,6 @@
 
 <!-------------------------------------------------------------------------------------------->
-<table border="0" cellpadding="0" cellspacing="0" frame="above">
+<table border="0" cellpadding="0" cellspacing="0" frame="void">
   <tr>
     <td width="50%" align="center" valign="middle" border="0">
       <img src="Bohan_Zhao_s.jpg"  border="0" style="vertical-align:top">      
