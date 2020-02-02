@@ -1,21 +1,13 @@
-<HTML>
-   <HEAD>
-      <TITLE>Homepage of Bohan Zhao</TITLE>
-<style type="text/css">
-.body_div {width:50em; margin-left:auto; margin-right:auto}
-</style>
-   </HEAD>
-<BODY >
-<div class="body_div">
+
 <!-------------------------------------------------------------------------------------------->
 <table cellpadding="20em">
 <tr>
 <td><img src="Bohan_Zhao.jpg" height=200em></td>
 <td align="top">
-<h1>Wenfei Wu</h1>
+<h1>Bohan Zhao</h1>
 <h3>Master<br> 
 IIIS, Tsinghua University</h3> 
-<img src="figs/email.png" height=40em>
+<h3>bhzhao16@fudan.edu.cn</h3> 
 </td>
 </tr>
 </table>
@@ -57,7 +49,3 @@ Details are here (<a href="recruiting_en.html" target="_blank">EN</a>, <a href="
 
 <!-------------------------------------------------------------------------------------------->
 
-
-</div>
-</BODY>
-</HTML>
