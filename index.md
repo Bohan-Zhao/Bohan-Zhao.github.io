@@ -13,6 +13,7 @@ IIIS, Tsinghua University</h3>
 </tr>
 </table>
 I am now the 4th year bachelor majored in Secrecy Policy and Management from School of Computer Science and Technology, Fudan University.
+<br><br>
 I am going to begin my post-graduate study in Intitute for Interdisciplinary Information Sciences(IIIS) , Tsinghua Univeristy, majored in Computer Sciences.
 <hr>
 
