@@ -2,14 +2,14 @@
 <!-------------------------------------------------------------------------------------------->
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="50%" align="center" valign="top">
       <h1>Bohan Zhao</h1>
       <p><b>Master</b></p>
       <p><b>IIIS, Tsinghua University</b></p>
       <p><b>bhzhao16@fudan.edu.cn</b></p>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="Bohan_Zhao.jpg" width="100%">      
+      <img src="Bohan_Zhao_s.jpg" width="100%">      
     </td>
   </tr>
 </table>
