@@ -1,17 +1,19 @@
 
 <!-------------------------------------------------------------------------------------------->
-
-<table>
-<tr>
-<td><img src="Bohan_Zhao.jpg" width="100%"></td>
-<td align="top">
-<h1>Bohan Zhao</h1>
-<h3>Master<br> 
-IIIS, Tsinghua University</h3> 
-<h3>bhzhao16@fudan.edu.cn</h3> 
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Bohan Zhao</h1>
+      <p><b>Maste</b></p>
+      <p><b>IIIS, Tsinghua University</b></p>
+      <p><b>bhzhao16@fudan.edu.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="Bohan_Zhao.jpg" width="100%">      
+    </td>
+  </tr>
 </table>
+
 I am now the 4th year bachelor majored in Secrecy Policy and Management from School of Computer Science and Technology, Fudan University.
 <br><br>
 I am going to begin my post-graduate study in Intitute for Interdisciplinary Information Sciences(IIIS) , Tsinghua Univeristy, majored in Computer Sciences.
