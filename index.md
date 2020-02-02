@@ -12,14 +12,8 @@ IIIS, Tsinghua University</h3>
 </td>
 </tr>
 </table>
-I got my Ph.D. from Computer Sciences Department in the University of Wisconsin-Madison. <br>
-My advisor was Prof. <a href="http://cs.wisc.edu/~akella" target="_blank">Aditya Akella</a>, and my research interest is in Networked Systems.
-<br><br>
-<font color="red">I am recruiting Ph.D./master/postdoctoral/intern students. 
-<br>
-Details are here (<a href="recruiting_en.html" target="_blank">EN</a>, <a href="recruiting.html" target="_blank">CH</a>), and please email me with your CV if interested! 
-</font> 
-<br><br>
+I am now the 4th year bachelor majored in Secrecy Policy and Management from School of Computer Science and Technology, Fudan University.
+I am going to begin my post-graduate study in Intitute for Interdisciplinary Information Sciences(IIIS) , Tsinghua Univeristy, majored in Computer Sciences.
 <hr>
 
 
